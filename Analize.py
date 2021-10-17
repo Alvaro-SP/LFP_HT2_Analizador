@@ -1,4 +1,12 @@
+''' ▬▬▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄HOJA DE TRABAJO 2▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+    INTEGRANTES: 
+        1.  Alvaro Emmanuel Socop Pérez     202000194
+        2.  Eduardo Enrique Zepeda Juárez   201612386
+        3.  Juan Antonio Gaitan Álvarez     201700888
+    REPOSITORIO EN GITHUB TAMBIEN:
 
+'''
+#        GRAMATICA:
 #*      '''*
 #*      A' ->  , FAC1 
 #*      	| . FAC2
